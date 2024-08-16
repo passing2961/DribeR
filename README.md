@@ -17,5 +17,10 @@ dataset = load_dataset("passing2961/photochat_plus")
 ## Citation
 
 ```
-TBD
+@article{lee2023large,
+  title={Large Language Models can Share Images, Too!},
+  author={Lee, Young-Jun and Hyeon, Jonghwan and Choi, Ho-Jin},
+  journal={arXiv preprint arXiv:2310.14804},
+  year={2023}
+}
 ```
