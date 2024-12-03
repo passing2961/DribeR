@@ -1,0 +1,210 @@
+The following is a dialogue between Landon and Ariya. The dialogue is provided line-by-line. In the given dialogue, you should predict whether it is appropriate for Landon to share an image in the next turn.
+
+Dialogue:
+Ariya: how are you doing?
+Landon: i'm doing good!
+Landon: how about you?
+Ariya: Great thanks what are you up to tonight?
+Landon: oh i just finished dinner at a restaurant with my friends
+Landon: it's down the street from my place
+Ariya: Cool. What kind of food?
+Landon: it's kind of a fast food with baked goods restaurant
+Ariya: I see. That sounds delicious
+Ariya: you have a photo of your dinner?
+Landon: I got a submarine sandwich
+Landon: yeah i have picture
+
+Question: Is it appropriate for Landon to share an image in the next turn? 
+Restrictions:
+(1) Answer just yes or no.
+Answer: yes
+
+
+The following is a dialogue between Carolina and Arianna. The dialogue is provided line-by-line. In the given dialogue, you should predict whether it is appropriate for Arianna to share an image in the next turn.
+
+Dialogue:
+Arianna: HI, HOW ARE YOU?
+Carolina: hello
+Carolina: fine how are you man ?
+Arianna: WELL AND YOU?
+Carolina: yeah all good
+Arianna: I'M GLAD. HOW'S IT GOING WITH THE QUARANTINE?
+Arianna: ARE YOU STILL THERE?
+Carolina: yup am here
+Carolina: quarantine is nowadays self protection so its going fine
+Arianna: YES, YOU HAVE TO PROTECT YOURSELF A LOT
+Carolina: yup not only me all my family and my friends too..hope you too safe
+
+Question: Is it appropriate for Arianna to share an image in the next turn? 
+Restrictions:
+(1) Answer just yes or no.
+Answer: no
+
+
+The following is a dialogue between Kasen and Malakai. The dialogue is provided line-by-line. In the given dialogue, you should predict whether it is appropriate for Malakai to share an image in the next turn.
+
+Dialogue:
+Kasen: hey , i went out this past weekend and someone took a picture of me on the dance floor when i was wasted
+
+Question: Is it appropriate for Malakai to share an image in the next turn? 
+Restrictions:
+(1) Answer just yes or no.
+Answer: no
+
+
+The following is a dialogue between Margaret and Alexander. The dialogue is provided line-by-line. In the given dialogue, you should predict whether it is appropriate for Margaret to share an image in the next turn.
+
+Dialogue:
+Alexander: What going on?
+Margaret: not much
+Margaret: currently at a restaurant with the fam
+Alexander: Sounds great? What are you having?
+Margaret: I just got some soup
+Margaret: wasn't super hungry
+Margaret: but it's reallllly good
+Alexander: Sounds healthy
+Margaret: yeah i guess haha
+Margaret: I also got a pastry though
+Alexander: Is it like the Siefield episode - soup Nazi
+
+Question: Is it appropriate for Margaret to share an image in the next turn? 
+Restrictions:
+(1) Answer just yes or no.
+Answer: yesThe following is a dialogue between Landon and Ariya. The dialogue is provided line-by-line. In the given dialogue, you should predict whether it is appropriate for Landon to share an image in the next turn.
+
+Dialogue:
+Ariya: how are you doing?
+Landon: i'm doing good!
+Landon: how about you?
+Ariya: Great thanks what are you up to tonight?
+Landon: oh i just finished dinner at a restaurant with my friends
+Landon: it's down the street from my place
+Ariya: Cool. What kind of food?
+Landon: it's kind of a fast food with baked goods restaurant
+Ariya: I see. That sounds delicious
+Ariya: you have a photo of your dinner?
+Landon: I got a submarine sandwich
+Landon: yeah i have picture
+
+Question: Is it appropriate for Landon to share an image in the next turn? 
+Restrictions:
+(1) Answer just yes or no.
+Answer: yes
+
+
+The following is a dialogue between Carolina and Arianna. The dialogue is provided line-by-line. In the given dialogue, you should predict whether it is appropriate for Arianna to share an image in the next turn.
+
+Dialogue:
+Arianna: HI, HOW ARE YOU?
+Carolina: hello
+Carolina: fine how are you man ?
+Arianna: WELL AND YOU?
+Carolina: yeah all good
+Arianna: I'M GLAD. HOW'S IT GOING WITH THE QUARANTINE?
+Arianna: ARE YOU STILL THERE?
+Carolina: yup am here
+Carolina: quarantine is nowadays self protection so its going fine
+Arianna: YES, YOU HAVE TO PROTECT YOURSELF A LOT
+Carolina: yup not only me all my family and my friends too..hope you too safe
+
+Question: Is it appropriate for Arianna to share an image in the next turn? 
+Restrictions:
+(1) Answer just yes or no.
+Answer: no
+
+
+The following is a dialogue between Kasen and Malakai. The dialogue is provided line-by-line. In the given dialogue, you should predict whether it is appropriate for Malakai to share an image in the next turn.
+
+Dialogue:
+Kasen: hey , i went out this past weekend and someone took a picture of me on the dance floor when i was wasted
+
+Question: Is it appropriate for Malakai to share an image in the next turn? 
+Restrictions:
+(1) Answer just yes or no.
+Answer: no
+
+
+The following is a dialogue between Margaret and Alexander. The dialogue is provided line-by-line. In the given dialogue, you should predict whether it is appropriate for Margaret to share an image in the next turn.
+
+Dialogue:
+Alexander: What going on?
+Margaret: not much
+Margaret: currently at a restaurant with the fam
+Alexander: Sounds great? What are you having?
+Margaret: I just got some soup
+Margaret: wasn't super hungry
+Margaret: but it's reallllly good
+Alexander: Sounds healthy
+Margaret: yeah i guess haha
+Margaret: I also got a pastry though
+Alexander: Is it like the Siefield episode - soup Nazi
+
+Question: Is it appropriate for Margaret to share an image in the next turn? 
+Restrictions:
+(1) Answer just yes or no.
+Answer: yes
+
+
+The following is a dialogue between Cody and Hezekiah. The dialogue is provided line-by-line. In the given dialogue, you should predict whether it is appropriate for Hezekiah to share an image in the next turn.
+
+Dialogue:
+Cody: Hello
+Cody: I'm in a park sharing some Cokes and some food
+Hezekiah: sounds like fun
+Cody: Yes! There is a group of about four or five of us, we planned it a while ago.
+Cody: We are sharing fast food, including some hamburgers and some pizza.
+
+Question: Is it appropriate for Hezekiah to share an image in the next turn? 
+Restrictions:
+(1) Answer just yes or no.
+Answer: no
+
+
+The following is a dialogue between Winston and Lorenzo. The dialogue is provided line-by-line. In the given dialogue, you should predict whether it is appropriate for Lorenzo to share an image in the next turn.
+
+Dialogue:
+Lorenzo: I am well, how are you?
+Winston: Not bad. Just had a crazy time with my college students.
+Lorenzo: Oh wow. What happened
+Winston: We celebrated outside. Social distancing restrictions were finally lifted.
+
+Question: Is it appropriate for Lorenzo to share an image in the next turn? 
+Restrictions:
+(1) Answer just yes or no.
+Answer: no
+
+
+The following is a dialogue between Maddison and Caroline. The dialogue is provided line-by-line. In the given dialogue, you should predict whether it is appropriate for Maddison to share an image in the next turn.
+
+Dialogue:
+Maddison: good morning
+Maddison: what is happening today?
+Caroline: Nothing much. what about you?
+
+Question: Is it appropriate for Maddison to share an image in the next turn? 
+Restrictions:
+(1) Answer just yes or no.
+Answer: no
+
+
+The following is a dialogue between Aviana and Luka. The dialogue is provided line-by-line. In the given dialogue, you should predict whether it is appropriate for Luka to share an image in the next turn.
+
+Dialogue:
+Aviana: How are you?
+Luka: doing good
+
+Question: Is it appropriate for Luka to share an image in the next turn? 
+Restrictions:
+(1) Answer just yes or no.
+Answer: no
+
+
+The following is a dialogue between {spk1} and {spk2}. The dialogue is provided line-by-line. In the given dialogue, you should predict whether it is appropriate for {share_spk} to share an image in the next turn.
+
+Dialogue:
+{dialogue}
+
+Question: Is it appropriate for {share_spk} to share an image in the next turn? 
+Restrictions:
+(1) Answer just yes or no.
+Answer:

@@ -1,0 +1,22 @@
+The following is a dialogue between {spk1} and {spk2}. The dialogue is provided line-by-line. In the given dialogue, it's now {share_spk}'s turn to speak. 
+
+You should predict whether it is appropriate for {share_spk} to share an image and its explanation. The prediction should be "Yes" or "No".  
+If "Yes", choose the most appropriate label for the explanation from the given options, or if none are suitable, generate a new one.
+
+Label Options with descriptions:
+- Information Dissemination: This involves sharing images to communicate important information, such as news, economic updates, or educational material (infographic image), aiming to inform or educate
+- Social Bonding: This involves sharing images to strengthen social connections, including personal photos and memories
+- Humor and Entertainment: This involves sharing light-hearted images, such as funny pictures or memes, to entertain and bring joy
+- Visual Clarification: This involves sharing images, such as diagrams, item-specific photos, or location iamges, to clarify complex concepts or situations
+- Topic Transition: This involves sharing images to shift the conversation topic or mood
+- Expression of Emotion or Opinion: This involves sharing images, such as emotive photos or art, to express emotions or opinions more effectively than text, succinctly conveying feelings or perspectives
+
+Your answer should follow the format:
+Prediction:
+Explanation:
+Label:
+
+Dialogue:
+{dialogue}
+
+Answer:

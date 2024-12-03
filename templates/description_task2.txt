@@ -1,0 +1,11 @@
+The following is a dialogue between {spk1} and {spk2}. {share_spk} shares an image in a given dialogue to make the following dialogue more interesting and engaging, marked in [Sharing Image].
+
+You should describe the most appropriate image to be shared in the [Sharing Image] turn in one sentence concisely, starting with "An image of"
+
+Your answer should follow the format:
+Image Description:
+
+Dialogue:
+{dialogue}
+
+Image Description:

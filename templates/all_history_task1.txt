@@ -1,0 +1,12 @@
+The following is a dialogue between {spk1} and {spk2}. You should share an image to make the following dialogue more interesting and engaging. The dialogue is provided line-by-line. In the given dialogue, select all utterances that are appropriate for sharing the image in the next turn, and write the speaker who will share the image after the selected utterance. You should also provide a rationale for your decision.
+
+Dialogue:
+{dialogue}
+
+Restrictions:
+(1) your answer should be in the format of "<UTTERANCE> | <SPEAKER> | <RATIONALE>".
+(2) you MUST select the utterance in the given dialogue, NOT generate a new utterance.
+(3) the rationale should be written starting with "To".
+
+Answer:
+1.

@@ -1,0 +1,28 @@
+The following is a dialogue between {spk1} and {spk2}. The dialogue is provided line-by-line. You will be provided a list of the intent of sharing an image. In the given dialogue, you should predict whether it is appropriate for {share_spk} to share an image in the next turn, the intent of image-sharing behavior, one sentence that invokes the image-sharing behavior, and the image description.
+
+List of Intent of Image-Sharing Behavior:
+- Information Dissemination: This involves sharing images to communicate important information, such as news, economic updates, or educational material (infographic image), aiming to inform or educate
+- Social Bonding: This involves sharing images to strengthen social connections, including personal photos and memories
+- Humor and Entertainment: This involves sharing light-hearted images, such as funny pictures or memes, to entertain and bring joy
+- Visual Clarification: This involves sharing images, such as diagrams, item-specific photos, or location images, to clarify complex concepts or situations
+- Topic Transition: This involves sharing images to shift the conversation topic or mood
+- Expression of Emotion or Opinion: This involves sharing images, such as emotive photos or art, to express emotions or opinions more effectively than text, succinctly conveying feelings or perspectives
+
+Dialogue:
+{dialogue}
+
+Question: Is it appropriate for {share_spk} to share an image in the next turn? If "Yes", choose all possible intents of sharing the image, provide only one sentence that invokes the image-sharing behavior, and provide the most appropriate image description. 
+Options:
+(a) Information Dissemination
+(b) Social Bonding
+(c) Humor and Entertainment
+(d) Visual Clarification
+(e) Topic Transition
+(f) Expression of Emotion or Opinion
+Restrictions: 
+(1) You should provide your answer in a Python dictionary object with three keys, "Prediction", "Intent", "Sentence", and "Image Description".
+(2) You should provide a binary answer (i.e., "yes" or "no") for the value of the "Prediction" key.
+(3) You should choose all possible intents for the value of "Intent" key.
+(4) You should provide the most contributed sentence (i.e., only one sentence) that invokes the image-sharing behavior for the value of "Sentence" key.
+(5) You should describe the relevant image for the value of "Image Description" key, starting with "An image of".
+Answer:

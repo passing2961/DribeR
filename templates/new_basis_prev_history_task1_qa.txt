@@ -1,0 +1,4 @@
+{dialogue}
+
+Question: Is it appropriate for {share_spk} to share an image in the next turn? Answer yes or no.
+Answer:

@@ -1,0 +1,34 @@
+The following is a dialogue between Ace and Kennedi. The dialogue is provided line-by-line. You will be provided a list of the intent of sharing an image. In the given dialogue, you should select utterances that are the most appropriate for sharing the image, write the speaker who will share the image, provide a rationale for your decision, the intent of the selected utterance, and describe the relevant image.
+
+List of Intent of Image-Sharing Behavior:
+- Information Dissemination: This involves sharing images to communicate important information, such as news, economic updates, or educational material (infographic image), aiming to inform or educate
+- Social Bonding: This involves sharing images to strengthen social connections, including personal photos and memories
+- Humor and Entertainment: This involves sharing light-hearted images, such as funny pictures or memes, to entertain and bring joy
+- Visual Clarification: This involves sharing images, such as diagrams, item-specific photos, or location images, to clarify complex concepts or situations
+- Topic Transition: This involves sharing images to shift the conversation topic or mood
+- Expression of Emotion or Opinion: This involves sharing images, such as emotive photos or art, to express emotions or opinions more effectively than text, succinctly conveying feelings or perspectives
+
+Dialogue:
+Kennedi: Hello
+Ace: Well hello!
+Kennedi: whats up
+Ace: Just working away. What are you up to?
+Kennedi: Working as well.
+Ace: It is Friday so I guess a little celebration may be in order?
+Kennedi: That is correct!
+Ace: I am thinking about a happy hour.
+Kennedi: Sounds good to me.
+Ace: It is summer and a nice Guinness may be called for. . .
+Ace: This looks perfect.
+Ace: What do you think?
+Kennedi: One of my favorites!
+Ace: Hope you have a great weekend.
+Kennedi: You as well.
+
+Restrictions: 
+(1) You should provide your answer in a Python list object with an element of Python dictionary object with five keys, "Utterance", "Speaker", "Intent", "Rationale", and "Image Description".
+(2) You MUST select the utterance in the given dialogue, NOT generate a new utterance.
+(3) You should choose all possible intents for the value of "Intent" key.
+(4) You should describe the relevant image for the value of "Image Description" key, starting with "An image of" in one sentence.
+(5) The rationale should be written starting with "To".
+Answer:

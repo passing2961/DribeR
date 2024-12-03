@@ -1,0 +1,10 @@
+The following is a dialogue between {spk1} and {spk2}. The dialogue is provided line-by-line. In the given dialogue, you should predict whether it is appropriate for {share_spk} to share an image in the next turn. The predicted answer should be "Yes" or "No". If "Yes", you should provide a rationale for your decision.
+
+Dialogue:
+{dialogue}
+
+Restrictions:
+(1) your answer should be in the format of "<Yes or No> | <RATIONALE>".
+(2) the rationale should be written starting with "To".
+
+Answer:

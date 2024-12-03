@@ -1,0 +1,10 @@
+The following is a dialogue between {spk1} and {spk2}. The dialogue is provided line-by-line. {share_spk} shares an image in a given dialogue to make the following dialogue more interesting and engaging, as marked in [Sharing Image]. 
+
+Dialogue:
+{dialogue}
+
+Question: What is the most appropriate image description to share in the [Sharing Image] turn?
+Restrictions:
+(1) You should provide your answer in a Python dictionary object with "Image Description" key.
+{restriction}
+Answer:
