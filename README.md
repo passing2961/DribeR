@@ -55,7 +55,7 @@ Navigate to the `scripts` folder and execute the appropriate script for your tas
 ```
 @article{lee2023large,
   title={Large Language Models can Share Images, Too!},
-  author={Lee, Young-Jun and Hyeon, Jonghwan and Choi, Ho-Jin},
+  author={Lee, Young-Jun and Lee, Dokyong and Sung, Joo Won and Hyeon, Jonghwan and Choi, Ho-Jin},
   journal={arXiv preprint arXiv:2310.14804},
   year={2023}
 }
